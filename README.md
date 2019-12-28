@@ -1,5 +1,9 @@
 # Home Automation
 
+![LICENCE](https://img.shields.io/github/license/hbrekke/home-automation)
+![SIZE](https://img.shields.io/github/repo-size/hbrekke/home-automation)
+![LAST UPDATE](https://img.shields.io/github/last-commit/hbrekke/home-automation)
+
 Home Automation is my home automation system, the system should be able to do all the different smart things in your house, the system is based off raspberry pi's, where one raspberry pi will act as the main server / hub other translate commands from the hub to the smart devices and respond with the response if any.
 
 The idea is that one rasperry pi will act as a HUB or main server how ever you see it, this should communicate with the different other raspberries that will act as a translator for the language that the server wants to talk and the way that the component wants to talk. The main server will not be directly connected to any device, it will use API's to make this possible.
