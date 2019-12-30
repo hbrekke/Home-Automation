@@ -1,3 +1,3 @@
 # images
 
-Here will all images that is developed be located.
+All developed images will be located here.
